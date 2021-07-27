@@ -1,4 +1,4 @@
-# OpenCV-East.ipynb
+# OpenCV-East-Text_Detection.ipynb
 Implementation of East Algorithm using OpenCv-Python
 
 
